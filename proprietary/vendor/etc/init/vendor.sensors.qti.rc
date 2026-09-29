@@ -30,7 +30,7 @@
 #
 
 service vendor.sensors.qti /vendor/bin/sensors.qti
-    class core
+    disabled
     user system
     group system
 
